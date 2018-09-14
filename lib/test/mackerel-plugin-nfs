@@ -1,0 +1,19 @@
+{
+  "ops.mnt.read": 42906,
+  "trans.mnt.read": 42906,
+  "timeouts.mnt.read": 0,
+  "bytes_sent.mnt.read": 7228360,
+  "bytes_recv.mnt.read": 34778206700,
+  "queue.mnt.read": 1780,
+  "rtt.mnt.read": 2197000,
+  "execute.mnt.read": 2206470,
+  "ops.mnt.write": 60012,
+  "trans.mnt.write": 60012,
+  "timeouts.mnt.write": 0,
+  "bytes_sent.mnt.write": 46259381150,
+  "bytes_recv.mnt.write": 7945340,
+  "queue.mnt.write": 4905350,
+  "rtt.mnt.write": 1564950,
+  "execute.mnt.write": 6473960,
+  "_lastTime": 1536731160
+}
