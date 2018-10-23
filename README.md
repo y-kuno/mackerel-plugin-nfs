@@ -12,7 +12,7 @@ mkr plugin install y-kuno/mackerel-plugin-nfs
 ## Synopsis
 
 ```
-mackerel-plugin-nfs [-metric-key-prefix=<prefix>]
+mackerel-plugin-nfs [--metric-key-prefix=<prefix>]
 ```
 
 ## Example of mackerel-agent.conf
